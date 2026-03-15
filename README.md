@@ -3,6 +3,12 @@ Sending the msg "kys" in any dm or server channel triggers a fun little messege.
 
 
 
+
+
+
+
+
+
 /**
  * @name KYSLink
  * @version 1.0.0
